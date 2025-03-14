@@ -1,4 +1,4 @@
-# 🎁 Amigo Secreto - Sorteo Automático
+# 🎁 Challenge Final: Amigo Secreto - Sorteo Automático (Formación Principiante en Programación G8 - ONE)
 
 ![Amigo Secreto](assets/amigo-secreto2.png)
 
@@ -29,7 +29,7 @@ Este proyecto permite a los usuarios **ingresar una lista de amigos** y realizar
 ---
 
 ## 🎓 **Proyecto desarrollado en la Beca Grupo 8 de Alura Latam y Oracle Next Education (ONE)**
-Este proyecto fue realizado como parte del programa de becas del **Grupo 8** gracias a:
+Este proyecto fue realizado como parte final de la Formación Principiante en Programación G8 - ONE gracias a:
 - 🎓 [Alura Latam](https://www.linkedin.com/school/alura-latam/)
 - 🏢 [Oracle Next Education (ONE)](https://www.linkedin.com/company/oracle)
 
