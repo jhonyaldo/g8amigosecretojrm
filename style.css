@@ -15,11 +15,24 @@
     box-sizing: border-box;
 }
 
-
 body {
     height: 100vh;
     background-color: var(--color-primary);
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.main-content {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+/* Banner */
+.header-banner {
+    flex: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 0 0;
 }
