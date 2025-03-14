@@ -56,3 +56,11 @@ body {
     font-style: italic;
     color: var(--color-white);
 }
+.section-title {
+    font-family: "Inter", serif;
+    font-size: 36px;
+    font-weight: 700;
+    color: var(--color-primary);
+    margin: 10px 0;
+    text-align: center;
+}
